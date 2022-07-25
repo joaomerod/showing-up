@@ -1,3 +1,5 @@
 # Things to explore
 # 
-# 
+# Git and Github
+# Docker
+# Kubernetes
